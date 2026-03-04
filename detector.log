@@ -1,0 +1,12 @@
+2026-03-03 20:12:33,938 | normal | IP=127.0.0.1 | bytes=45 | entropy=4.486
+2026-03-03 20:12:34,444 | normal | IP=127.0.0.1 | bytes=73 | entropy=4.107
+2026-03-03 20:12:34,944 | normal | IP=127.0.0.1 | bytes=69 | entropy=4.092
+2026-03-03 20:12:41,651 | HIGH-ENTROPY | IP=127.0.0.1 | bytes=256 | entropy=7.198
+2026-03-03 20:12:42,154 | HIGH-ENTROPY | IP=127.0.0.1 | bytes=256 | entropy=7.193
+2026-03-03 20:12:42,659 | HIGH-ENTROPY | IP=127.0.0.1 | bytes=256 | entropy=7.104
+2026-03-04 08:40:06,447 | normal | IP=127.0.0.1 | bytes=45 | entropy=4.486
+2026-03-04 08:40:06,953 | normal | IP=127.0.0.1 | bytes=73 | entropy=4.107
+2026-03-04 08:40:07,456 | normal | IP=127.0.0.1 | bytes=69 | entropy=4.092
+2026-03-04 08:40:22,450 | HIGH-ENTROPY | IP=127.0.0.1 | bytes=256 | entropy=7.241
+2026-03-04 08:40:22,956 | HIGH-ENTROPY | IP=127.0.0.1 | bytes=256 | entropy=7.125
+2026-03-04 08:40:23,458 | HIGH-ENTROPY | IP=127.0.0.1 | bytes=256 | entropy=7.210
