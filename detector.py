@@ -97,7 +97,7 @@ def main():
     print("  Sniffing... (Ctrl+C to stop)\n")
 
     sniff(
-        # iface="lo0",   # macOS loopback — change to eth0/ens33 on Linux VM
+        iface="lo"
         filter=f"tcp port {MONITOR_PORT}",
         prn=process_packet,
         store=False
